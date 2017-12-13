@@ -1,7 +1,7 @@
 {
-  "name": "luno-bot",
+  "name": "luno-fetcher",
   "version": "1.0.0",
-  "description": "Luno trading bot",
+  "description": "Luno data fetcher",
   "main": "index.js",
   "dependencies": {
     "firebase-admin": "^5.5.1",
