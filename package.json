@@ -1,0 +1,17 @@
+{
+  "name": "luno-bot",
+  "version": "1.0.0",
+  "description": "Luno trading bot",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^5.5.1",
+    "lodash": "^4.17.4",
+    "luno-api": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zayin Krige",
+  "license": "MIT"
+}
